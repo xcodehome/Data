@@ -1,0 +1,191 @@
+[
+  {
+    "#": "1",
+    "N° SIRET": "43397637000059",
+    "Société": "BYN",
+    "Lot": "RAVALEMENT",
+    "Dossier": "BRIQUES - PLAQUETTES",
+    "Activité": "Travaux de maçonnerie générale et gros œuvre de bâtiment",
+    "Adresse": "6 RUE JEAN MARIUS, 91280 SAINT-PIERRE-DU-PERRAY"
+  },
+  {
+    "#": "2",
+    "N° SIRET": "78850987500035",
+    "Société": "S.T.M. ELEC",
+    "Lot": "ELECTRICITE",
+    "Dossier": "Electricité",
+    "Activité": "Travaux d'installation électrique dans tous locaux",
+    "Adresse": "9 CHEMIN DES FROMAGERS, 95500 LE THILLAY"
+  },
+  {
+    "#": "3",
+    "N° SIRET": "50065022100020",
+    "Société": "I.R.P.C",
+    "Lot": "PLOMBERIE CVC",
+    "Dossier": "Plomberie - Chauffage - CVC",
+    "Activité": "Travaux d'installation d'eau et de gaz en tous locaux",
+    "Adresse": "15 AVENUE COLBERT, 93420 VILLEPINTE"
+  },
+  {
+    "#": "4",
+    "N° SIRET": "59205230201860",
+    "Société": "KONE",
+    "Lot": "ASCENSEUR",
+    "Dossier": "Ascenseurs",
+    "Activité": "Autres travaux d'installation n.c.a.",
+    "Adresse": "455 PROMENADE DES ANGLAIS, 06000 NICE"
+  },
+  {
+    "#": "5",
+    "N° SIRET": "88273332200029",
+    "Société": "SPG 78",
+    "Lot": "PLATRERIE",
+    "Dossier": "ICD - FP",
+    "Activité": "Travaux de plâtrerie",
+    "Adresse": "38 RUE DE LA VIERGE, 78640 VILLIERS-SAINT-FREDERIC"
+  },
+  {
+    "#": "6",
+    "N° SIRET": "82395900200010",
+    "Société": "NEOBAT CONCEPT",
+    "Lot": "REVETEMENT SOLS",
+    "Dossier": "Pose de sols souples",
+    "Activité": "Construction de maisons individuelles",
+    "Adresse": "12 RUE PIERRE DE GEYTER, 93240 STAINS"
+  },
+  {
+    "#": "7",
+    "N° SIRET": "43319399200024",
+    "Société": "PINTO RODRIGUESET FILS",
+    "Lot": "REVETEMENT SOLS",
+    "Dossier": "Sols durs",
+    "Activité": "Travaux de revêtement des sols et des murs",
+    "Adresse": "67 RUE DU PRESSOIR, 77350 LE MEE-SUR-SEINE"
+  },
+  {
+    "#": "8",
+    "N° SIRET": "41954460600058",
+    "Société": "PEINTURES 3000",
+    "Lot": "PEINTURE",
+    "Dossier": "Peinture",
+    "Activité": "Travaux de peinture et vitrerie",
+    "Adresse": "38 RUE D'ALSACE, 92110 CLICHY"
+  },
+  {
+    "#": "9",
+    "N° SIRET": "52024201700017",
+    "Société": "POLENERGY",
+    "Lot": "SERRURERIE METAL",
+    "Dossier": "GC VERRE",
+    "Activité": "Travaux de menuiserie métallique et serrurerie",
+    "Adresse": "20 RUE DU MOULIN NEUF, 94520 PERIGNY"
+  },
+  {
+    "#": "10",
+    "N° SIRET": "42239907100014",
+    "Société": "P.R.S.",
+    "Lot": "SERRURERIE METAL",
+    "Dossier": "SERRURERIE GENERALE",
+    "Activité": "Travaux de montage de structures métalliques",
+    "Adresse": "20 RUE DU SAUVOY, 77165 SAINT-SOUPPLETS"
+  },
+  {
+    "#": "11",
+    "N° SIRET": "30832458100047",
+    "Société": "VERDIFLOR - HEE",
+    "Lot": "ESPACES VERTS",
+    "Dossier": "Espaces Verts",
+    "Activité": "Services d'aménagement paysager",
+    "Adresse": "27 RUE JEAN B CLEMENT, 91370 VERRIERES LE BUISSON"
+  },
+  {
+    "#": "12",
+    "N° SIRET": "84326550500027",
+    "Société": "MS COFFRAGE",
+    "Lot": "GO SOUS-TRAITE",
+    "Dossier": "n°1 GROS OEUVRE",
+    "Activité": "Travaux de maçonnerie générale et gros œuvre de bâtiment",
+    "Adresse": "440 CLOS DE LA COURTINE, 93160 NOISY-LE-GRAND"
+  },
+  {
+    "#": "13",
+    "N° SIRET": "35165027000041",
+    "Société": "SCIFODIAM",
+    "Lot": "SCIAGE CAROTTAGE",
+    "Dossier": "SCIAGE",
+    "Activité": "Travaux de démolition",
+    "Adresse": "32 RUE SADI CARNOT, 93300 AUBERVILLIERS"
+  },
+  {
+    "#": "14",
+    "N° SIRET": "41406203400023",
+    "Société": "VEIGA",
+    "Lot": "TERRASSEMENT",
+    "Dossier": "TERRASSEMENT VPP DEMOLITION",
+    "Activité": "Location avec opérateur de matériel de construction",
+    "Adresse": "47 BOULEVARD DE STALINGRAD, 94400 VITRY-SUR-SEINE"
+  },
+  {
+    "#": "15",
+    "N° SIRET": "38761333400029",
+    "Société": "SONDEFOR(SONDAGES ET FORAGES)",
+    "Lot": "FONDATIONS",
+    "Dossier": "PIEUX",
+    "Activité": "Forages et sondages",
+    "Adresse": "2 ROUTE DE LA LANDE, 86800 SAINT-JULIEN-L'ARS"
+  },
+  {
+    "#": "16",
+    "N° SIRET": "52532807600019",
+    "Société": "DPM DALLAGE PLANCHER MACONNERIE",
+    "Lot": "DALLAGE CHAPE",
+    "Dossier": "Coulage de dalle",
+    "Activité": "Travaux de revêtement des sols et des murs",
+    "Adresse": "30 RUE TURGOT, 93600 AULNAY-SOUS-BOIS"
+  },
+  {
+    "#": "17",
+    "N° SIRET": "49242899000021",
+    "Société": "BATIPREFA",
+    "Lot": "PREFABRIQUES",
+    "Dossier": "lot n°2 ETANCHEITE",
+    "Activité": "Travaux de maçonnerie générale et gros œuvre de bâtiment",
+    "Adresse": "8 RUE LAVOISIER, 77330 OZOIR-LA-FERRIERE"
+  },
+  {
+    "#": "18",
+    "N° SIRET": "88508985400016",
+    "Société": "KLM",
+    "Lot": "CUVELAGE",
+    "Dossier": "n°1 GROS OEUVRE",
+    "Activité": "Travaux d'étanchéification",
+    "Adresse": "7 RUE JOSEPH FAUCHEUX, 45310 SAINT-PERAVY-LA-COLOMBE"
+  },
+  {
+    "#": "19",
+    "N° SIRET": "83006516500029",
+    "Société": "ISO FRANCE",
+    "Lot": "FLOCAGE ISOLATION",
+    "Dossier": "LOT N°1 GROS OEUVRE",
+    "Activité": "Construction d'autres bâtiments",
+    "Adresse": "18 RUE DE L’’INDUSTRIE, 77220 TOURNAN-EN-BRIE"
+  },
+  {
+    "#": "20",
+    "N° SIRET": "89529830500023",
+    "Société": "SOFIDEK",
+    "Lot": "ETANCHEITE",
+    "Dossier": "ETANCHEITE",
+    "Activité": "Travaux d'étanchéification",
+    "Adresse": "157 AVENUE DE LA DIVISION LECLERC, 95880 ENGHIEN-LES-BAINS"
+  },
+  {
+    "#": "21",
+    "N° SIRET": "52024201700017",
+    "Société": "POLENERGY",
+    "Lot": "MENUISERIE EXT",
+    "Dossier": "MEXT POSE",
+    "Activité": "Travaux de menuiserie métallique et serrurerie",
+    "Adresse": "20 RUE DU MOULIN NEUF, 94520 PERIGNY"
+  }
+]
